@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, soy Ernesto García</h1>
 <h3 align="center">Desarrollador apasionado por la tecnología y el aprendizaje continuo</h3>
+<h3 align="center">Estoy interesado en la programacion web y otras tecnologias relacionada con el desarrollo web, ademas de las redes computaciones como cisco y sus protocolos, una de mis metas es poder trabajar en grandes y pequeños proyecto para genera experiencias y mejora mis conociminetos</h3>
 
 ---
 
@@ -18,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" height="40" alt="Laravel logo" />
+   <img src="https://1000marcas.net/wp-content/uploads/2020/03/logo-Cisco.png" height="40" alt="Cisco" />
 </div>
 
 ---
@@ -33,7 +35,7 @@
   <a href="mailto:nesword23@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/ernesto-garcía-9116a4325" target="_blank">
+  <a href="www.linkedin.com/in/ernesto-garcía-nolazco-555433213" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://www.tiktok.com/@ernestogarcia0599?_t=ZM-8vSftZye4z1&_r=1" target="_blank">
@@ -43,7 +45,6 @@
 
 ---
 
-<h2 align="left">✨ Animación</h2>
 <div align="center">
   <img src="https://usagif.com/wp-content/uploads/gifs/starfall-gif-45.gif" alt="Animación de estrellas" />
 </div>
