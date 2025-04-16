@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" height="40" alt="Laravel logo" />
    <img src="https://1000marcas.net/wp-content/uploads/2020/03/logo-Cisco.png" height="40" alt="Cisco" />
+    <img src="https://imgs.search.brave.com/sru3YRB5VVqJlDYUUs-fa44G_Y2RGOyIoUpr5Y9IEuM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MTc5MWNlZjEw/MTRjMGI1ZTQ5OTQu/cG5n" height="40" alt="php" />
 </div>
 
 ---
