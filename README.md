@@ -27,9 +27,6 @@
 
 <h2 align="left">📲 Conéctate conmigo</h2>
 <div align="left">
-  <a href="https://www.youtube.com/c/YourChannel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
   <a href="https://www.instagram.com/erne.sto__g.n?igsh=MTdqZ2g4NGFoMHFhYQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
